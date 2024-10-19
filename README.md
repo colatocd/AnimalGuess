@@ -38,12 +38,12 @@
 4. **Correct Answer**:  
    - This is an example of the correct animal image matching the question, answering this correctly increases your score by 1.
 
-   ![Correct Answer](images/right.png)
+  <img src="images/right.png" alt="Correct Answer" width="300">
 
 5. **Wrong Answer**:  
    - This is an example of the wrong animal image matching the question, answering this correctly makes you go to the next question without increasing your score.
 
-   ![Wrong Answer](images/wrong.png)
+   <img src="images/wrong.png" alt="Wrong Answer" width="300">
 
 6. **Scoring**:  
    - Your score will be displayed at the bottom of the screen.
@@ -54,7 +54,7 @@
    - Once you reach a score of 10 points, the game ends, and you'll see a "Game Over" message along with your final score.  
    - To play again, tap the "Start" button.
 
-   ![Game Over Screen](images/gameover.png)
+  <img src="images/gameover.png" alt="Game Over Screen" width="300">
 
 ---
 
