@@ -1,4 +1,3 @@
-
 # AnimalGuess App User Guide
 
 **Author:** Cesar Colato
@@ -13,35 +12,49 @@
 
 ## Getting Started
 
-1. **Launch the App**: 
+1. **Launch the App**:  
    - Locate the "AnimalGuess" app icon on your device and tap on it to open the app.
 
-2. **Start Screen**:
+2. **Start Screen**:  
    - Upon launching, you'll see a "Start" button. Tap this button to begin the game.
+
+   ![Start Screen](images/start.png)
 
 ---
 
 ## How to Play
 
-1. **View the Animal Image**:
+1. **View the Animal Image**:  
    - Once the game starts, an animal image will be displayed on the screen.
 
-2. **Read the Question**:
+2. **Read the Question**:  
    - Below the image, there will be a question asking if the displayed image is of a certain animal, e.g., "Is this a bird?"
 
-3. **Answer the Question**:
+3. **Answer the Question**:  
    - Two buttons, "Yes" and "No", are provided below the question.
    - If you believe the displayed image matches the animal name in the question, tap the "Yes" button.
    - If you think it doesn't match, tap the "No" button.
 
-4. **Scoring**:
+4. **Correct Answer**:  
+   - If you answer correctly, the screen will show the right animal match.
+
+   ![Correct Answer](images/right.png)
+
+5. **Wrong Answer**:  
+   - If your answer is incorrect, the game will display the wrong choice.
+
+   ![Wrong Answer](images/wrong.png)
+
+6. **Scoring**:  
    - Your score will be displayed at the bottom of the screen.
    - Every time you correctly identify an animal by pressing the "Yes" button, your score will increase by one point.
    - The game continues until you achieve a score of 10 points.
 
-5. **Game Over**:
-   - Once you reach a score of 10 points, the game ends, and you'll see a "Game Over" message along with your final score.
+7. **Game Over**:  
+   - Once you reach a score of 10 points, the game ends, and you'll see a "Game Over" message along with your final score.  
    - To play again, tap the "Start" button.
+
+   ![Game Over Screen](images/gameover.png)
 
 ---
 
