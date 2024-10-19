@@ -18,7 +18,7 @@
 2. **Start Screen**:  
    - Upon launching, you'll see a "Start" button. Tap this button to begin the game.
 
-   ![Start Screen](images/start.png)
+  <img src="images/start.png" alt="Start Screen" width="300">
 
 ---
 
@@ -36,12 +36,12 @@
    - If you think it doesn't match, tap the "No" button.
 
 4. **Correct Answer**:  
-   - If you answer correctly, the screen will show the right animal match.
+   - This is an example of the correct animal image matching the question, answering this correctly increases your score by 1.
 
    ![Correct Answer](images/right.png)
 
 5. **Wrong Answer**:  
-   - If your answer is incorrect, the game will display the wrong choice.
+   - This is an example of the wrong animal image matching the question, answering this correctly makes you go to the next question without increasing your score.
 
    ![Wrong Answer](images/wrong.png)
 
